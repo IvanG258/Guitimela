@@ -1,0 +1,59 @@
+.ans{
+    width: 80px;
+}
+button{
+    border:none;
+    border-radius: 6px;
+    font-size:18px;
+    height:30px;
+width:75px;
+}
+button:hover{
+    border-color:cyan ;
+    border-radius: 4px;
+    cursor:pointer;
+    background-color:blanchedalmond;
+}
+.bot{
+    background:greenyellow;
+    margin: 0.9px;
+    width: 78px;
+    margin-bottom:1px;
+}
+h6{
+    color:yellow;
+}
+.input{
+    border-radius: 3px;
+    margin-right:1px ;
+    background-color: darkgray;
+   height:40px;
+    border-width: 407px;
+    margin-bottom: 4px;
+       }
+       .vis{
+        
+        height: 30px;
+       }
+       .ans{
+        
+        background-color: aquamarine;
+        margin: 1.5px 1.5px 1.5px 1.5px;
+       }
+       .contento{
+        box-shadow: 5px 8px 15px 5px black ;
+        background: black;
+        height:280px;
+        border-radius: 10px;
+        border: 4px solid;
+       justify-content: center;
+       align-items: center;
+       
+       }
+       body{
+        padding-top:10%;
+        background-color: yellow;
+        padding-left:30%;
+        display:flex;
+        align-content: center;
+       }
